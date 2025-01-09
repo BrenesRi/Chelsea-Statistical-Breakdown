@@ -11,3 +11,5 @@ Objectives:
 3. **How many goals** does Chelsea usually score?
 4. Discover **Chelsea's hardest rivalries**
 5. Is **offensive** football the **key to Chelsea's success**?
+
+Link to Colab: https://colab.research.google.com/drive/165rI6c0rZbjKE7GAXjDh-IWIkhnT5pwk#scrollTo=93f9bfb4
